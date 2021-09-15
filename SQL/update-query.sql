@@ -1,0 +1,1 @@
+UPDATE salary SET tax = 0.1*salary+0.02*incentive WHERE salary > 15000
